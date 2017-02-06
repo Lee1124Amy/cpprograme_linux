@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("hello world!\n");
+	printf("Start running the cd program!\n");
 	return 0;
 }
